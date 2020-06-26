@@ -1,7 +1,5 @@
 
-selector {
-	property: value;
-}
+
 
 img {
 	height: 200px;
@@ -18,7 +16,6 @@ img {
 
 body {
 	margin: 0 auto;
-	background-color: blue;
 }
 
 header {
